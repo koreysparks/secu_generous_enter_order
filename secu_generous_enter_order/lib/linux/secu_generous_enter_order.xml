@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<conf>
+   <param>
+      <trade_ip       value="10.1.51.47" />
+      <trade_port   value="30000" />
+      <query_ip      value="10.1.51.47" />
+      <query_port   value="30001" />
+      <order_count   value="30000" />
+      <exchange_id   value="101" discribe="默认100 100=sse 101=sze "/>
+      <enter_order_loop_time       value="10" dis="下单间隔 单位ms 默认100"/>
+      <user_info   logon_id="jys" pwd="1"  client_id="70000000" fund_account="70000000" app_id="app"  auth_code="auth_code" />
+      <order_info_0   symbol="90001453" security_type="9" security_sub_type="1" qty="1" price="1.55" side="35" price_type="2" max_price_level="0" tif="0" cash_margin_flag="1" force_cover_flag="1"/>
+      <order_info_1   symbol="90001453" security_type="9" security_sub_type="1" qty="1" price="1.55" side="35" price_type="2" max_price_level="0" tif="0" cash_margin_flag="1" force_cover_flag="1"/>
+  </param>
+</conf>
